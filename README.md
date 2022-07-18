@@ -8,6 +8,8 @@ Engineering & business intelligence professional with experience in advisory and
 * Machine Learning: Linear Models, Random Forest, Gradient Boosting, Naive Bayes, KNN, SVM
 * Project Management: JIRA, Confluence, SAP, Salesforce
 
+# Personal Introduction
+
 ![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/Slide1.PNG)
 ![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/Slide2.PNG)
 ![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/Slide3.PNG)
