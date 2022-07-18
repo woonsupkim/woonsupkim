@@ -1,6 +1,6 @@
 # Who Am I?
 
-Engineering & business intelligence professional with experience in advisory and product management.
+Data Scientist, Engineering & Business Intelligence professional with experience in advisory and product management.
 * LinkedIn Profile: [Click Here](https://www.linkedin.com/in/woonsup-kim)
 
 ## Technical Skills
