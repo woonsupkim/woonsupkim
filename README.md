@@ -5,7 +5,7 @@ Engineering & business intelligence professional with experience in advisory and
 
 ### Technical Skills
 * Languages: Python, R, SQL, Tableau, Excel/VBA
-* Machine Learning: Linear Models, Random Forest, Gradient Boosting, Naive Bayes, KNN, SVM
+* Machine Learning: Linear Models, Random Forest, Gradient Boosting, Naive Bayes, KNN, SVM, NLP using Huggingface
 * Project Management: JIRA, Confluence, SAP, Salesforce
 
 # Personal Introduction
