@@ -1,7 +1,7 @@
 # Who Am I?
 
 Data Scientist, Engineering & Business Intelligence professional with experience in advisory and product management.
-* LinkedIn Profile: [Click Here](https://www.linkedin.com/in/woonsup-kim)
+* Check my [LinkedIn Profile](https://www.linkedin.com/in/woonsup-kim) for my detailed experiences.
 
 ## Technical Skills
 * Languages: Python, R, SQL, Tableau, Excel/VBA
@@ -9,11 +9,11 @@ Data Scientist, Engineering & Business Intelligence professional with experience
 * Project Management: JIRA, Confluence, SAP, Salesforce
 
 ## Data Science Projects
-[Predicting House Sales Price - Regression](https://github.com/woonsupkim/HouseSalesPrice_Prediction)
-[Modeling the Societal Impact of a Pharma Company - Regression](https://github.com/woonsupkim/BurdenofCare)
-[Predicting Rent in New York - Regression](https://github.com/woonsupkim/Predicting_Rent_in_NY)
-[Fraud Detection using Clustering - Classification](https://github.com/woonsupkim/Fraud_Detection)
-[Predicting Titanic Survivors - Classification](https://github.com/woonsupkim/Titanic)
+* [Predicting House Sales Price - Regression](https://github.com/woonsupkim/HouseSalesPrice_Prediction)
+* [Modeling the Societal Impact of a Pharma Company - Regression](https://github.com/woonsupkim/BurdenofCare)
+* [Predicting Rent in New York - Regression](https://github.com/woonsupkim/Predicting_Rent_in_NY)
+* [Fraud Detection using Clustering - Classification](https://github.com/woonsupkim/Fraud_Detection)
+* [Predicting Titanic Survivors - Classification](https://github.com/woonsupkim/Titanic)
 
 # Personal Introduction
 
