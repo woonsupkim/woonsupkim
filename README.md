@@ -8,6 +8,12 @@ Data Scientist, Engineering & Business Intelligence professional with experience
 * Machine Learning: Linear Models, Random Forest, Gradient Boosting, Naive Bayes, KNN, SVM, NLP using Huggingface
 * Project Management: JIRA, Confluence, SAP, Salesforce
 
+## Data Science Projects
+[Click Here](https://www.linkedin.com/in/woonsup-kim)
+[Click Here](https://www.linkedin.com/in/woonsup-kim)
+[Click Here](https://www.linkedin.com/in/woonsup-kim)
+[Click Here](https://www.linkedin.com/in/woonsup-kim)
+
 # Personal Introduction
 
 ![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/Slide1.PNG)
