@@ -20,7 +20,6 @@ Data Scientist, Engineering & Business Intelligence professional with experience
 ![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/Slide1.PNG)
 ![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/Slide2.PNG)
 ![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/Slide3.PNG)
-![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/Slide4.PNG)
 ![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/Slide5.PNG)
 ![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/Slide6.PNG)
 ![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/Slide7.PNG)
