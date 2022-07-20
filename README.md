@@ -1,7 +1,7 @@
 # Who Am I?
 
 Data Scientist, Engineering & Business Intelligence professional with experience in advisory and product management.
-* Check my [LinkedIn Profile](https://www.linkedin.com/in/woonsup-kim) for my detailed experiences.
+* Check my [LinkedIn Profile](https://www.linkedin.com/in/woonsup-kim) for details on my work experiences.
 
 ## Technical Skills
 * Languages: Python, R, SQL, Tableau, Excel/VBA
