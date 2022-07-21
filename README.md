@@ -9,11 +9,11 @@ Data Scientist, Engineering & Business Intelligence professional with experience
 * Project Management: JIRA, Confluence, SAP, Salesforce
 
 ## Data Science Projects
-* [Predicting House Sales Price - Regression](https://github.com/woonsupkim/HouseSalesPrice_Prediction)
-* [Modeling the Societal Impact of a Pharma Company - Regression](https://github.com/woonsupkim/BurdenofCare)
-* [Predicting Rent in New York - Regression](https://github.com/woonsupkim/Predicting_Rent_in_NY)
-* [Fraud Detection using Clustering - Classification](https://github.com/woonsupkim/Fraud_Detection)
-* [Predicting Titanic Survivors - Classification](https://github.com/woonsupkim/Titanic)
+* [Regression - Predicting House Sales Price](https://github.com/woonsupkim/HouseSalesPrice_Prediction)
+* [Regression - Modeling the Societal Impact of a Pharma Company](https://github.com/woonsupkim/BurdenofCare)
+* [Regression - Predicting Rent in New York](https://github.com/woonsupkim/Predicting_Rent_in_NY)
+* [Classification - Fraud Detection using Clustering](https://github.com/woonsupkim/Fraud_Detection)
+* [Classification - Predicting Titanic Survivors](https://github.com/woonsupkim/Titanic)
 
 # Personal Introduction
 
