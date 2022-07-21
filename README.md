@@ -12,8 +12,8 @@ Data Scientist, Engineering & Business Intelligence professional with experience
 * [Regression - Predicting House Sales Price](https://github.com/woonsupkim/HouseSalesPrice_Prediction)
 * [Regression - Modeling the Societal Impact of a Pharma Company](https://github.com/woonsupkim/BurdenofCare)
 * [Regression - Predicting Rent in New York](https://github.com/woonsupkim/Predicting_Rent_in_NY)
-* [Unsupervised - Fraud Detection using Unsupervised Methods](https://github.com/woonsupkim/Fraud_Detection)
 * [Classification - Predicting Titanic Survivors](https://github.com/woonsupkim/Titanic)
+* [Unsupervised - Fraud Detection using Unsupervised Methods](https://github.com/woonsupkim/Fraud_Detection)
 * [NLP - Analyzing Medication Reviews to Draw Insights - WORK IN PROGESS](https://github.com/woonsupkim/DrugReview)
 
 
