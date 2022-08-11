@@ -14,7 +14,7 @@ Data Scientist, Engineering & Business Intelligence professional with experience
 * [Regression - Predicting Rent in New York](https://github.com/woonsupkim/Predicting_Rent_in_NY)
 * [Classification - Predicting Titanic Survivors](https://github.com/woonsupkim/Titanic)
 * [Unsupervised - Fraud Detection using Unsupervised Methods](https://github.com/woonsupkim/Fraud_Detection)
-* [NLP - Analyzing Medication Reviews to Draw Insights - WORK IN PROGESS](https://github.com/woonsupkim/DrugReview)
+* [NLP - Analyzing Medication Reviews for Insights on Side Effects](https://github.com/woonsupkim/DrugReview)
 
 
 # Personal Introduction
