@@ -11,10 +11,11 @@ Data Scientist, Engineering & Business Intelligence professional with experience
 ## Data Science Projects
 * [Regression - Predicting House Sales Price](https://github.com/woonsupkim/HouseSalesPrice_Prediction)
 * [Regression - Modeling the Societal Impact of a Pharma Company](https://github.com/woonsupkim/BurdenofCare)
+* [NLP - Analyzing Medication Reviews for Insights on Side Effects](https://github.com/woonsupkim/DrugReview)
+* [NLP - Data Story - History of Philosophy](https://github.com/woonsupkim/NLP_Philosophy_DataStory)
 * [Regression - Predicting Rent in New York](https://github.com/woonsupkim/Predicting_Rent_in_NY)
 * [Classification - Predicting Titanic Survivors](https://github.com/woonsupkim/Titanic)
 * [Unsupervised - Fraud Detection using Unsupervised Methods](https://github.com/woonsupkim/Fraud_Detection)
-* [NLP - Analyzing Medication Reviews for Insights on Side Effects](https://github.com/woonsupkim/DrugReview)
 
 
 # Personal Introduction
