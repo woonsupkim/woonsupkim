@@ -1,4 +1,4 @@
-# Who Am I?
+# Introductions
 
 Data Scientist, Engineering & Business Intelligence professional with experience in advisory and product management.
 * Check my [LinkedIn Profile](https://www.linkedin.com/in/woonsup-kim) for details on my work experiences.
