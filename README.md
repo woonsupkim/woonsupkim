@@ -15,7 +15,7 @@ Data Scientist, Engineering & Business Intelligence professional with experience
 * [NLP - Data Story - History of Philosophy](https://github.com/woonsupkim/NLP_Philosophy_DataStory)
 * [Regression - Predicting Rent in New York](https://github.com/woonsupkim/Predicting_Rent_in_NY)
 * [Classification - Predicting Titanic Survivors](https://github.com/woonsupkim/Titanic)
-* [Unsupervised - Fraud Detection using Unsupervised Methods](https://github.com/woonsupkim/Fraud_Detection)
+* [Clustering - Fraud Detection using Unsupervised Methods](https://github.com/woonsupkim/Fraud_Detection)
 
 
 # Personal Introduction
