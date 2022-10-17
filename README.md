@@ -5,7 +5,7 @@ Data Scientist, Engineering & Business Intelligence professional with experience
 
 ## Technical Skills
 * Languages: Python, R, SQL, Tableau, Excel/VBA
-* Machine Learning: Linear Models, Random Forest, Gradient Boosting, Naive Bayes, KNN, SVM, NLP using Huggingface
+* Machine Learning: Linear Models, Random Forest, Gradient Boosting, Naive Bayes, KNN, SVM, NLP
 * Project Management: JIRA, Confluence, SAP, Salesforce
 
 ## Data Science Projects
