@@ -2,7 +2,7 @@
 
 Data Scientist, Engineering & Business Intelligence professional with experience in advisory and product management.
 
-My ambition is to help the world make sense of data and do something useful with it. \n
+My ambition is to help the world make sense of data and do something useful with it. <br>
 Various industries converged on data analytics, but many lack the skills to harvest it properly; there are many resources, but little is being cultivated to produce some sort of good.
 I intend to fill this gap by harvesting relevant datasets, conducting detailed analyses, and producing accurate insights to make actionable recommendations.
 
