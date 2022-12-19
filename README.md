@@ -26,11 +26,11 @@ I intend to fill this gap by harvesting relevant datasets, conducting detailed a
 
 # Personal Introduction
 
-![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/Slide1.PNG)
-![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/Slide2.PNG)
-![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/Slide3.PNG)
-![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/Slide5.PNG)
-![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/Slide6.PNG)
-![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/Slide7.PNG)
+![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/PersonalIntro2/Slide1.PNG)
+![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/PersonalIntro2/Slide2.PNG)
+![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/PersonalIntro2/Slide3.PNG)
+![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/PersonalIntro2/Slide4.PNG)
+![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/PersonalIntro2/Slide5.PNG)
+![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/PersonalIntro2/Slide6.PNG)
 
 
