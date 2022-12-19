@@ -1,6 +1,12 @@
 # Introductions
 
 Data Scientist, Engineering & Business Intelligence professional with experience in advisory and product management.
+
+My ambition is to help the world make sense of data and do something useful with it.
+Various industries converged on data analytics, but many lacked the skills to harvest it properly; there are many resources, but little is being cultivated to produce some sort of good.
+I intend to fill this gap by harvesting relevant datasets, conducting detailed analyses, and producing accurate insights to make actionable recommendations.
+
+
 * Check my [LinkedIn Profile](https://www.linkedin.com/in/woonsup-kim) for details on my work experiences.
 
 ## Technical Skills
