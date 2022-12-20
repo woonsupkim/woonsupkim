@@ -27,7 +27,7 @@ I intend to fill this gap by harvesting relevant datasets, conducting detailed a
 # Personal Introduction
 
 ![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/PersonalIntro2/Slide1.png)
-![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/PersonalIntro2/Slide22.png)
+![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/PersonalIntro2/Slide2.png)
 ![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/PersonalIntro2/Slide3.png)
 ![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/PersonalIntro2/Slide4.png)
 ![1](https://github.com/woonsupkim/woonsupkim/blob/main/PersonalIntroduction/PersonalIntro2/Slide5.png)
