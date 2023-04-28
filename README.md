@@ -8,6 +8,7 @@ I intend to fill this gap by harvesting relevant datasets, conducting detailed a
 
 
 * Check my [LinkedIn Profile](https://www.linkedin.com/in/woonsup-kim) for details on my work experiences.
+* Check my [Blog](https://medium.com/@dwkim1212) for my thoughts on current events.
 
 ## Technical Skills
 * Languages: Python, R, SQL, Tableau, Excel/VBA
