@@ -1,7 +1,5 @@
 # Introductions
 
-Data Expert and Product Manager.
-
 I am a data expert and a product owner. My skills are developed through graduate studies and five years of industry experience. I develop data products that improve businesses by conducting essential analysis, modeling, and research. My unique combination of business acumen and technical skills makes me a valuable addition to organizations looking to develop a data strategy.
 
 
