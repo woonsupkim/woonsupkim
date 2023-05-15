@@ -1,10 +1,8 @@
 # Introductions
 
-Data Scientist, Engineering & Business Intelligence professional with experience in advisory and product management.
+Data Expert and Product Manager.
 
-My ambition is to help the world make sense of data and do something useful with it. <br>
-Various industries converged on data analytics, but many lack the skills to harvest it properly; there are many resources, but little is being cultivated to produce some sort of good.
-I intend to fill this gap by harvesting relevant datasets, conducting detailed analyses, and producing accurate insights to make actionable recommendations.
+I am a data expert and a product owner. My skills are developed through graduate studies and five years of industry experience. I develop data products that improve businesses by conducting essential analysis, modeling, and research. My unique combination of business acumen and technical skills makes me a valuable addition to organizations looking to develop a data strategy.
 
 
 * Check my [LinkedIn Profile](https://www.linkedin.com/in/woonsup-kim) for details on my work experiences.
